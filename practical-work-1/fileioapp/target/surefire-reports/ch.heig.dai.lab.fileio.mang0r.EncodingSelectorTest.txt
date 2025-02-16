@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ch.heig.dai.lab.fileio.mang0r.EncodingSelectorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.003 s -- in ch.heig.dai.lab.fileio.mang0r.EncodingSelectorTest

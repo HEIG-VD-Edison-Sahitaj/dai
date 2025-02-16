@@ -1,0 +1,16 @@
+subject:Welcome to Our Service
+body:Hello,
+We are delighted to have you with us. Please reach out if you need any assistance.
+
+END
+subject:Meeting Reminder
+body:Hi Team,
+This is a gentle reminder about our meeting scheduled for tomorrow at 10:00 AM.
+
+END
+subject:Maintenance Notification
+body:Dear User,
+Please note that our services will be undergoing maintenance this Saturday from 1:00 AM to 5:00 AM.
+We apologize for any inconvenience caused.
+
+END
